@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game-on-Python-GUI :notebook:
-In this repo i have created Tic Tak Toe game on Python GUI (Pygame). 
+In this repo i have created Tic Tac Toe game on Python GUI (Pygame). 
 
 # Dependentias :warning:
 ```python
