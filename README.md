@@ -4,8 +4,26 @@ In this repo i have created Tic Tac Toe game on Python GUI (Pygame).
 [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
 # Technology used in Project :hotsprings:
-
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pygame_logo.gif" width="500">
+
+# Directory Tree :cactus:
+```bash
+.
+├── data
+│   ├── O.png
+│   ├── Tera Baap Aaya.mp3
+│   ├── tic tac opening.png
+│   └── X.png
+├── game.py
+├── Images
+│   ├── 1.png
+│   └── 2.png
+├── LICENSE
+└── README.md
+
+2 directories, 9 files
+```
+
 
 ## ScreenShot :camera_flash:
 ![](https://github.com/yogeshnile/Tic-Tac-Toe-Game-on-Python-GUI/blob/master/data/tic%20tac%20opening.png)      ![](https://github.com/yogeshnile/Tic-Tac-Toe-Game-on-Python-GUI/blob/master/Images/1.png)
